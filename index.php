@@ -36,6 +36,17 @@
 
     ?>
     </div>
+    <div class="list-group">
+  <a href="#" class="list-group-item disabled">
+    Pravna lica
+  </a>
+  <a href="gradonacelnik.php" class="list-group-item">Gradonacelnik</a>
+  <a href="skupstina_grada.php" class="list-group-item">Skupstina grada</a>
+  <a href="Gradska_uprava.php" class="list-group-item">Gradska uprava</a>
+  <a href="jpn.php" class="list-group-item">Javni pozivi, konkursi, nabavke</a>
+  <a href="JU.php" class="list-group-item">Javne ustanove</a>
+  <a href="GIK.php" class="list-group-item">Gradska izborna komisija</a>
+</div>
     </div>
 
 </div>

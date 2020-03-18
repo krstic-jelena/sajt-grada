@@ -22,17 +22,18 @@ else{
     <div class="jumbotron">
     <h1>Pocetna stranica</h1>
     <p>Dobrodosli na zvanicnu stranicu grada Zvornik. Ovdje mozete pronaci sve potrebne informacije i obrasce vezane za nase sluzbe.
-    Nadamo se da ca Vam ova stranica biti od koristi.</p>
+    Nadamo se da ca Vam ova stranica biti od koristi. Ukoliko ste pravno lice, koristite log in formu za pristup dozvoljenim informacijama...</p>
     </div>
     <div class="col-md-6">
         <h3>Odluke</h3>
-        <p>Dobrodosli na zvanicnu stranicu grada. Ovdje mozete pronaci sve potrebne informacije i obrasce vezane za nase sluzbe.
-        Nadamo se da ca Vam ova stranica biti od koristi.</p>
+        <a href="#">Nabavka goriva i maziva za vozila gradske uprave grada Zvornik</a><br><br>
+        <a href="#">Analiticka i graficka obrada podataka za potrebe regulacije korita rijeke Sapne</a><br><br>
+        <a href="#">Izrada WEB stranice i WEB hosting usluge gradu Zvorniku</a><br><br>
     </div>
     <div class="col-md-6">
         <h3>Tenderi</h3>
-        <p>Dobrodosli na zvanicnu stranicu grada. Ovdje mozete pronaci sve potrebne informacije i obrasce vezane za nase sluzbe.
-        Nadamo se da ca Vam ova stranica biti od koristi.</p>
+        <a href="#">Poziv za dostavljanje ponuda za javnu nabavku</a><br><br>
+        <a href="#">Poziv-nabavka informativnih usluga</a>
     </div>
 
     <?php 
